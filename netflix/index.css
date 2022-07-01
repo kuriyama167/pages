@@ -9,6 +9,7 @@ body {
 
 h1 {
     margin: auto;
+    letter-spacing: 30px;
     font-size: 10rem;
     text-shadow: -5px 5px 0px black;
     /*           ➡️   ⬇️   blur color */
